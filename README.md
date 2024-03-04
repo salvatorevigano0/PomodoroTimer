@@ -10,7 +10,7 @@ This simple Python script, called `pomodoro_timer`, allows you to automate your 
 - Print-out of the total number of minutes worked, total number of minutes on break, and the total number of minutes for the Pomodoro Technique.
 
 ## How to Use
-1. Clone or download the Python script from the [GitHub repository]([https://github.com/openai/gpt-3.5-py](https://github.com/salvatorevigano0/PomodoroTimer)).
+1. Clone or download the Python script from the [GitHub repository](https://github.com/salvatorevigano0/PomodoroTimer).
 2. Open the script in your favorite Python editor.
 3. Run the script with `python3 timer.py` 
 4. Input the desired duration for the Pomodoro cycle, the short break, and the number of cycles.
